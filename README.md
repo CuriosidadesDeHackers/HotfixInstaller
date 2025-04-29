@@ -46,22 +46,6 @@ El archivo de registro hotfix_installation_log.txt se guarda en el mismo directo
 
 Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en contactarme.
 
-
-## Descripción del Documento:
-
-- **Nombre del Repositorio**: **HotfixInstaller**.
-- **Sección de Introducción**: Explica brevemente qué hace el script.
-- **Características**: Enumera las características clave del script con iconos.
-- **Requisitos**: Especifica los requisitos necesarios para ejecutar el script.
-- **Uso**: Proporciona instrucciones paso a paso sobre cómo configurar y ejecutar el script.
-- **Ejemplo de Uso**: Muestra un ejemplo de cómo ejecutar el script.
-- **Archivo de Registro**: Explica dónde se guarda el archivo de registro y qué información contiene.
-- **Notas**: Proporciona algunas notas adicionales y recomendaciones con iconos.
-- **Licencia**: Indica que el script es de código abierto.
-- **Script de Instalación de Hotfixes**: Incluye el script de PowerShell completo.
-
-Este documento proporciona toda la información necesaria para que los usuarios puedan entender y utilizar el script de manera efectiva, todo en un solo archivo `.md` listo para ser utilizado en un repositorio de GitHub llamado **HotfixInstaller**, con iconos para mejorar la legibilidad y el atractivo visual.
-
 ## 🤝 **Contribuir**
 
 ¡Tu contribución es bienvenida! Si encuentras algún problema o tienes sugerencias para mejorar el plugin, por favor abre un issue o envía un pull request.
